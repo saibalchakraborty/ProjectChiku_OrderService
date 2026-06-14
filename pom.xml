@@ -63,6 +63,12 @@
 			<artifactId>spring-security-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+		<!-- recorder dependency-->
+		<dependency>
+			<groupId>com.chiku</groupId>
+			<artifactId>recorder</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
 	</dependencies>
 
 	<build>
